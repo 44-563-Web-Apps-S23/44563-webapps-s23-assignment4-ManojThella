@@ -1,0 +1,13 @@
+.speed{ 
+    font-style: oblique;
+    font-size: small;
+    color: black;
+}
+
+.direction{
+    font-style: italic;
+    font-size: small;
+    color: black;
+    background-color:blue;
+}
+
