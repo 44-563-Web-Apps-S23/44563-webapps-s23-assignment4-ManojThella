@@ -32,3 +32,15 @@ tr:nth-child(even){
     background-color: cornflowerblue;
 }
 
+.MRS_X:hover{
+    text-shadow: 5px 2px 2px rgba(243, 105, 14, 0.941);
+    border: 2px solid blanchedalmond;
+    border-style:dashed ;
+}
+
+.MISS_Y:hover{
+    text-shadow: 5px 2px 2px rgba(156, 123, 232, 0.941);
+    border: 2px solid chocolate;
+    border-style:dotted;
+}
+
