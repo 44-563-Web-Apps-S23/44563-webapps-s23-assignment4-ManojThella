@@ -44,3 +44,19 @@ tr:nth-child(even){
     border-style:dotted;
 }
 
+.navbar li{
+    list-style-type: none;
+    margin: 1px solid;
+    padding: 1px;
+    width:100px;
+    background-color:rgb(243, 111, 111);
+    display: block;
+    float:left;
+    border: 1px solid;
+}
+.navbar li:hover{
+    
+   
+
+}
+
