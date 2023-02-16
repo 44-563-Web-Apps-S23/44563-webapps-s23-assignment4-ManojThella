@@ -1,4 +1,4 @@
-.speed{ 
+.speech{ 
     font-style: oblique;
     font-size: small;
     color: black;
@@ -8,6 +8,16 @@
     font-style: italic;
     font-size: small;
     color: black;
-    background-color:blue;
+    background-color:skyblue;
+}
+.direction:hover {
+    color: red;
+    background-color: aliceblue;
+}
+.MRS_X{
+    color: blue;
+}
+.MISS_Y{
+    color: green;
 }
 
